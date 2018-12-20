@@ -1,0 +1,42 @@
+.bg-sv-blue{
+    background-color: $sv-blue;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+svg{
+    .sv-black-fill{
+        fill: black;
+    }
+    
+    .sv-white-fill{
+        fill: white;
+    }
+}
+
+.uehara {
+    background-image: url("/visual\ identity/uehara.svg");
+    height: 100%;
+}
+
+.open {
+    background-image: url("/visual\ identity/open.svg");
+    height: 100%;
+}
+
+.close {
+    background-image: url("/visual\ identity/close.svg");
+    height: 100%;
+}
+
+.slash {
+    background-image: url("/visual\ identity/slash.svg");
+    height: 100%;
+}
+
+.lambda {
+    background-image: url("/visual\ identity/lambda.svg");
+    height: 100%;
+}

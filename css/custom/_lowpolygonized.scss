@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "squared display";
+  src: url("/fonts/Squared Display.ttf");
+}
+
+@font-face {
+  font-family: "ua squared";
+  src: url("/fonts/UASQUARE.TTF");
+}
+
+body {
+  font-family: "ua squared";
+  color: $sv-orange;
+  background-color: black;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+
+.work{
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+  .work{
+    width: 45%;
+  }
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) and ( min-width: 768px) {
+  .work{
+    width: 33%;
+  }
+} 
+
+@media only screen and (min-width: 992px) {
+  .work{
+    width: 24.5%;
+  }
+}
+
+.title {
+  margin: 20px;
+  height: 10vh;
+}
+
+.menu {
+  margin: 10px 0px 0px 0px;
+  padding: 10px 0px 0px 0px;
+  font-size: 1.25rem;
+}
+
+.std-style {
+  border-radius: 0px;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.std-back {
+  display: block;
+  background-image: url("../../svg/landscape/sky.svg");
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  z-index: 1;
+}
+
+.std-header {
+  background-image: url("../../svg/visual-identity/header.svg");
+  background-repeat: repeat-x;
+  background-size: contain;
+  background-position: center center;
+  height: 14vh;
+  width: 100%;
+}
+
+.sv-link {
+  text-decoration: none;
+  color: $sv-orange;
+}
+
+.sv-link:hover , .sv-link:active {
+  color: $sv-pale;
+} 
