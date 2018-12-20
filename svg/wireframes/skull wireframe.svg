@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
+   width="233.16377mm"
    height="297mm"
-   viewBox="0 0 297 297"
+   viewBox="0 0 233.16377 297"
    version="1.1"
    id="svg8"
    sodipodi:docname="skull wireframe.svg"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42150236"
-     inkscape:cx="552.85604"
-     inkscape:cy="417.95834"
+     inkscape:cx="552.85608"
+     inkscape:cy="417.95832"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,9 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -88,10 +90,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-476.82057,-41.724556)">
+     transform="translate(-476.82056,-41.724554)">
     <g
        id="g22279-3"
-       transform="matrix(1.1949369,0,0,1.1949369,89.630234,0.80888879)"
+       transform="matrix(2.087625,0,0,2.087625,-342.48007,-140.69576)"
        style="fill:none;stroke:#ffffff;stroke-width:0.66145837;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:connector-curvature="0"

@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
-   height="297mm"
-   viewBox="0 0 297 297"
+   height="173.49995mm"
+   viewBox="0 0 297 173.49995"
    version="1.1"
    id="svg8"
    sodipodi:docname="book.svg"
@@ -20,10 +20,10 @@
      id="defs2">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 105.00001 : 1"
-       inkscape:vp_y="0 : 1000.0001 : 0"
-       inkscape:vp_z="297 : 105.00001 : 1"
-       inkscape:persp3d-origin="148.5 : 70.000004 : 1"
+       inkscape:vp_x="0 : 105 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="297 : 105 : 1"
+       inkscape:persp3d-origin="148.5 : 70 : 1"
        id="perspective818" />
     <filter
        x="0"
@@ -1910,8 +1910,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42150236"
-     inkscape:cx="483.63694"
-     inkscape:cy="479.78452"
+     inkscape:cx="483.63693"
+     inkscape:cy="479.78454"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1926,7 +1926,13 @@
      inkscape:window-height="809"
      inkscape:window-x="67"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -1967,10 +1973,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,5.2282763e-6)">
+     transform="translate(-1.511395e-6,-123.50005)">
     <g
        id="g1165"
-       transform="translate(-7.5902347,3.504999)">
+       transform="matrix(1.3221121,0,0,1.3221121,-57.868779,18.550392)">
       <path
          transform="matrix(0.31402986,0,0,0.31402986,43.76995,79.380303)"
          sodipodi:nodetypes="cccccccccccccc"

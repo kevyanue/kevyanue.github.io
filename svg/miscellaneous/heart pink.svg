@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
-   height="297mm"
-   viewBox="0 0 297 297"
+   height="244.77719mm"
+   viewBox="0 0 297 244.77719"
    version="1.1"
    id="svg8"
    sodipodi:docname="heart pink.svg"
@@ -60,8 +60,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.30874816"
-     inkscape:cx="505.14334"
-     inkscape:cy="520.83465"
+     inkscape:cx="505.14335"
+     inkscape:cy="520.8346"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -83,7 +83,13 @@
      inkscape:window-height="809"
      inkscape:window-x="67"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -121,7 +127,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(2.4624172e-6,-52.222792)">
     <g
        transform="matrix(4.2677811,0,0,4.2677811,7.6965065,101.66369)"
        id="g6"
@@ -184,7 +191,7 @@
        style="fill:#919191;fill-opacity:1" />
     <g
        id="g230"
-       transform="matrix(1.1954154,0.10479553,-0.10479553,1.1954154,-11.223371,-92.12596)">
+       transform="matrix(1.6274626,0.14267075,-0.14267075,1.6274626,-68.950619,-152.98164)">
       <g
          style="filter:url(#filter892)"
          transform="translate(-6.024163,-11.17618)"

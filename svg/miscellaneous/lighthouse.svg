@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
+   width="231.87657mm"
    height="297mm"
-   viewBox="0 0 297 297"
+   viewBox="0 0 231.87657 297"
    version="1.1"
    id="svg8"
    sodipodi:docname="lighthouse.svg"
@@ -27,1074 +27,10 @@
        inkscape:menu-tooltip="Remove white line between adjacent edges"
        inkscape:menu="ABCs"
        inkscape:label="Stitch together"
-       id="filter894">
+       id="filter241">
       <feColorMatrix
          values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix892" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter898">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix896" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter902">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix900" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter906">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix904" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter910">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix908" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter914">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix912" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter918">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix916" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter922">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix920" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter926">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix924" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter930">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix928" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter934">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix932" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter938">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix936" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter942">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix940" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter946">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix944" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter950">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix948" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter954">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix952" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter958">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix956" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter962">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix960" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter966">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix964" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter970">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix968" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter974">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix972" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter978">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix976" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter982">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix980" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter986">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix984" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter990">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix988" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter994">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix992" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter998">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix996" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1002">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1000" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1006">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1004" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1010">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1008" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1014">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1012" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1018">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1016" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1022">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1020" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1026">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1024" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1030">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1028" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1034">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1032" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1038">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1036" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1042">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1040" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1046">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1044" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1050">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1048" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1054">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1052" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1058">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1056" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1062">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1060" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1066">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1064" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1070">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1068" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1074">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1072" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1078">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1076" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1082">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1080" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1086">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1084" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1090">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1088" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1094">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1092" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1098">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1096" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1102">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1100" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1106">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1104" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1110">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1108" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1114">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1112" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1118">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1116" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1122">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1120" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1126">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1124" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1130">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1128" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1134">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1132" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1138">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1136" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1142">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1140" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1146">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1144" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1150">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1148" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1154">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1152" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1158">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1156" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1162">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1160" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1166">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1164" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1170">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1168" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1174">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1172" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1178">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1176" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1182">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1180" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1194">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1192" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1198">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1196" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1202">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1200" />
-    </filter>
-    <filter
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
-       inkscape:label="Stitch together"
-       id="filter1206">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 "
-         id="feColorMatrix1204" />
+         id="feColorMatrix239" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -1104,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="543.32982"
-     inkscape:cy="256.61434"
+     inkscape:zoom="0.5"
+     inkscape:cx="538.97512"
+     inkscape:cy="578.49131"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1124,7 +60,13 @@
      inkscape:window-maximized="1"
      inkscape:measure-start="304.565,813.63"
      inkscape:measure-end="304.565,756.639"
-     inkscape:snap-midpoints="true" />
+     inkscape:snap-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -1165,15 +107,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,5.2282763e-6)">
+     transform="translate(-1.109418e-6,6.7876884e-6)">
     <g
        id="g2323"
-       transform="translate(-8.6563483,0.45376512)">
+       transform="matrix(1.5140758,0,0,1.5140758,-122.00833,-75.65322)"
+       style="filter:url(#filter241)">
       <path
          inkscape:connector-curvature="0"
          id="path1246"
          d="m 220.36491,59.154412 v 53.788308 l -44.4042,-21.998033 0.0233,-8.233593 z"
-         style="opacity:1;vector-effect:none;fill:#918243;fill-opacity:1;stroke:none;stroke-width:0.28364438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;vector-effect:none;fill:#918243;fill-opacity:1;stroke:none;stroke-width:0.28364438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
          sodipodi:nodetypes="ccccc" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
@@ -1181,20 +124,20 @@
          inkscape:connector-curvature="0"
          id="path243"
          d="m 121.99208,89.278076 9.08713,0.0067 -9.08713,17.924384 z"
-         style="opacity:1;vector-effect:none;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1206)" />
+         style="opacity:1;vector-effect:none;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path202"
          d="m 160.48472,107.20911 -29.40551,0.007 -9.08713,16.36421 z"
-         style="opacity:1;vector-effect:none;fill:#212020;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1202)" />
+         style="opacity:1;vector-effect:none;fill:#212020;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:export-ydpi="237"
          inkscape:export-xdpi="237"
          inkscape:export-filename="D:\asd\lighthousing2.svg.png"
-         style="display:inline;opacity:1;vector-effect:none;fill:#373737;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter1198)"
+         style="display:inline;opacity:1;vector-effect:none;fill:#373737;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;"
          d="m 111.31151,194.67129 5.59959,13.58456 -1.20765,20.68293 z"
          id="path8733"
          inkscape:connector-curvature="0"
@@ -1204,470 +147,470 @@
          inkscape:connector-curvature="0"
          id="path182"
          d="m 121.99208,123.58002 h 47.57833 l -9.08762,-16.37439 z"
-         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1182)" />
+         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path186"
          d="m 160.48472,107.20911 9.08813,16.35721 v -16.35721 z"
-         style="opacity:1;vector-effect:none;fill:#212020;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1178)" />
+         style="opacity:1;vector-effect:none;fill:#212020;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path188"
          d="m 179.37068,123.58002 h -9.80027 l 0.002,-16.37091 z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1174)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path190"
          d="m 169.57285,107.20911 h 9.79783 v 16.37091 z"
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1170)" />
+         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path188-7"
          d="m 112.19181,123.58002 h 9.80027 l -0.002,-16.37091 z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1166)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path190-5"
          d="m 121.98964,107.20911 h -9.79783 v 16.37091 z"
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1162)" />
+         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path237"
          d="m 157.97574,191.21303 -35.98366,-67.63301 h 47.57833 z"
-         style="opacity:1;vector-effect:none;fill:#181717;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1158)" />
+         style="opacity:1;vector-effect:none;fill:#181717;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path241"
          d="M 131.07921,107.21596 V 89.284926 l -9.08957,17.924184 z"
-         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1154)" />
+         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path245"
          d="m 131.07921,89.284776 29.40551,17.924334 -29.40551,0.007 z"
-         style="opacity:1;vector-effect:none;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1150)" />
+         style="opacity:1;vector-effect:none;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path247"
          d="m 160.48472,107.20911 -29.40551,-17.924334 29.40551,-0.0067 z"
-         style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1146)" />
+         style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path249"
          d="m 169.57284,107.20911 -9.08812,-17.931034 -0.003,17.927554 z"
-         style="opacity:1;vector-effect:none;fill:#a6a6a6;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1142)" />
+         style="opacity:1;vector-effect:none;fill:#a6a6a6;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path251"
          d="m 169.57284,107.20911 -9.08812,-17.931034 h 9.08812 z"
-         style="opacity:1;vector-effect:none;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1138)" />
+         style="opacity:1;vector-effect:none;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path186-9"
          d="m 131.07921,107.21596 -9.08813,16.35721 v -16.35721 z"
-         style="opacity:1;vector-effect:none;fill:#252323;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1134)" />
+         style="opacity:1;vector-effect:none;fill:#252323;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path368"
          d="m 145.78196,63.148611 14.70276,26.129465 -29.4055,0.0067 z"
-         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1130)" />
+         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path370"
          d="m 160.48472,89.278076 h 9.08812 L 145.78196,63.148611 Z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1126)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path370-0"
          d="m 131.07921,89.281426 h -9.08812 L 145.78197,63.15196 Z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1122)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path387"
          d="m 169.57284,89.278076 h 7.34838 L 145.77701,63.157403 Z"
-         style="opacity:1;vector-effect:none;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1118)" />
+         style="opacity:1;vector-effect:none;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path387-9"
          d="m 121.98861,89.277029 h -7.34734 l 31.14318,-26.120672 z"
-         style="opacity:1;vector-effect:none;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1114)" />
+         style="opacity:1;vector-effect:none;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path519"
          d="m 126.48992,246.12574 3.27009,-11.10472 -17.25388,11.10472 z"
-         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998683;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1110)" />
+         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998684;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path521"
          d="m 141.24885,246.12574 -11.48884,-11.10472 -3.27009,11.10472 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1106)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path523"
          d="m 171.57571,177.97629 11.2165,34.51327 4.07341,-8.26641 z"
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1102)" />
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          inkscape:connector-curvature="0"
          id="path525"
          transform="matrix(0.2836444,0,0,0.2836444,-260.84833,-12.347867)"
          d="m 1547.6406,653.68359 42.3926,130.44727 15.3945,-31.24414 92.2559,158.37305 h 45.9726 z"
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1098)" />
+         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path529"
          d="m 174.87579,182.31169 -5.30538,-58.73167 -11.59467,67.63301 5.799,-5.78294 5.66298,2.19588 2.13799,-9.64968 z"
-         style="opacity:1;vector-effect:none;fill:#141212;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1094)" />
+         style="opacity:1;vector-effect:none;fill:#141212;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccccccc"
          inkscape:connector-curvature="0"
          id="path531"
          d="m 118.959,196.18743 3.03308,-72.60713 35.98366,67.63271 -7.87308,7.85127 -12.4468,-21.31943 -4.45766,15.67376 -4.78659,-3.01724 z"
-         style="opacity:1;vector-effect:none;fill:#141212;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1090)" />
+         style="opacity:1;vector-effect:none;fill:#141212;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path533"
          d="m 126.23586,237.28918 -2.19654,-21.636 -4.04977,25.65617 z"
-         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998683;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1086)" />
+         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998684;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path537"
          d="m 124.03932,215.65318 -19.06027,30.47256 h 7.52708 l 7.48342,-4.81639 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1082)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path539"
          d="m 98.697016,246.12574 12.614444,-51.45474 -0.3474,41.821 -5.98501,9.63374 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1078)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path541"
          d="m 111.31146,194.671 4.392,34.26778 -4.7394,7.55322 z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1074)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path543"
          d="m 131.12446,236.30967 -2.09962,-14.36421 12.22401,24.18028 z"
-         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998683;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1070)" />
+         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998684;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path545"
          d="m 124.03932,215.65318 6.16947,14.39207 0.91567,6.26441 -1.36466,-1.2889 -3.52394,2.26842 z"
-         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1066)" />
+         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path588"
          d="m 153.91403,246.12574 h -12.66518 l 13.88518,-11.39053 z"
-         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998683;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1062)" />
+         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998684;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path590"
          d="m 155.13403,234.73521 6.58103,11.39053 h -7.80685 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1058)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path592"
          d="m 155.13403,234.73521 31.40456,11.39053 h -24.82353 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1054)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path594"
          d="m 152.2738,225.41891 4.33147,9.88871 -1.47124,-0.57241 -3.44374,2.82502 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1050)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path596"
          d="m 152.2738,225.41891 -0.58351,12.14132 -6.0588,4.97027 z"
-         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1046)" />
+         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path598"
          d="m 129.02484,221.94546 17.73314,17.81537 -1.12649,2.76967 -4.38264,3.59524 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1042)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path600"
          d="m 163.46994,231.71178 -0.57243,5.84285 6.45604,2.20683 z"
-         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998683;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1038)" />
+         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998684;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path602"
          d="m 163.46994,231.71178 -6.86467,3.59584 6.29224,2.24701 z"
-         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1034)" />
+         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path604"
          d="m 173.80742,235.34841 0.43235,6.31651 12.29882,4.46082 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1030)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path606"
          d="m 173.80742,235.34841 -4.45387,4.41305 4.88622,1.90346 z"
-         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1026)" />
+         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path610"
          d="m 152.2738,225.41891 6.61644,8.6918 -2.28497,1.19691 z"
-         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1022)" />
+         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path612"
          d="m 195.34471,246.12574 -17.04266,-18.66382 3.20456,14.4041 5.03198,4.25972 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1018)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path614"
          d="m 195.34471,246.12574 h 15.93033 l -32.97299,-18.66382 z"
-         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1014)" />
+         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path616"
          d="m 178.30205,227.46192 -4.49463,7.88649 7.69919,6.51761 z"
-         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.97583337;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1010)" />
+         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.97583337;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path620"
          d="m 116.91078,208.25564 3.79937,12.70373 -5.00669,7.97952 z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1002)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path622"
          d="m 186.86561,204.22315 7.92294,32.57068 16.48649,9.33191 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter998)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path624"
          d="m 186.86562,204.22315 -3.71689,25.98215 11.63981,6.58853 z"
-         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998683;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter994)" />
+         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998684;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path626"
          d="m 155.05563,213.88557 7.26581,18.42782 -3.4312,1.79732 -6.61644,-8.6918 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter990)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
          id="path628"
          d="m 124.03937,215.65322 15.28212,10.46047 -0.24542,5.80204 -10.05126,-9.97031 1.18398,8.09982 z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter986)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path630"
          d="m 139.32152,226.11372 8.74387,10.29668 -1.30741,3.35043 -7.68191,-7.8451 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter982)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
          id="path632"
          d="m 162.32143,232.31339 -7.2658,-18.42782 13.45777,19.56517 0.84015,6.31072 -5.88361,-8.04968 z"
-         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter978)" />
+         style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path634"
          d="m 171.84459,234.70624 -3.33119,-1.2555 0.84015,6.31072 z"
-         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998683;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter974)" />
+         style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.99998684;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path636"
          d="m 155.05563,213.88557 -15.73411,12.22815 8.74387,10.29668 4.20833,-10.99126 z"
-         style="opacity:1;vector-effect:none;fill:#242424;fill-opacity:0.99997014;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter970)" />
+         style="opacity:1;vector-effect:none;fill:#242424;fill-opacity:0.99997014;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
          id="path638"
          d="m 186.86562,204.22315 -17.51207,35.53831 4.45387,-4.41305 4.49463,-7.88649 4.84667,2.74338 z"
-         style="opacity:1;vector-effect:none;fill:#191919;fill-opacity:0.99993998;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter966)" />
+         style="opacity:1;vector-effect:none;fill:#191919;fill-opacity:0.99993998;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path640"
          d="m 171.57576,177.97577 11.21646,34.51379 -2.64348,5.36455 z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter962)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path642"
          d="m 169.43772,187.62597 10.71102,30.22814 -8.57303,-39.87848 z"
-         style="opacity:1;vector-effect:none;fill:#474747;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter958)" />
+         style="opacity:1;vector-effect:none;fill:#474747;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path644"
          d="m 155.05563,213.88557 23.59385,7.01107 -6.8049,13.8096 -3.33087,-1.25538 z"
-         style="opacity:1;vector-effect:none;fill:#212121;fill-opacity:0.99998887;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter954)" />
+         style="opacity:1;vector-effect:none;fill:#212121;fill-opacity:0.99998887;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path646"
          d="m 173.1816,219.27182 -3.74388,-31.64585 10.71102,30.22814 -1.49926,3.04253 z"
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter950)" />
+         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path648"
          d="m 173.18166,219.27158 -9.40697,-33.84125 5.66309,2.1954 z"
-         style="opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter946)" />
+         style="opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.838526,-17.678804)"
          inkscape:connector-curvature="0"
          id="path652"
          d="m 116.9111,208.25585 3.52491,-8.37888 0.33576,20.98415 z"
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter942)" />
+         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path654"
          d="m 120.43588,199.87704 5.97673,17.40064 -2.37329,-1.6245 -3.26755,5.20794 z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter938)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path656"
          d="m 128.41161,190.40137 -1.999,26.87631 -5.9766,-17.40071 z"
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter934)" />
+         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path658"
          d="m 128.41161,190.40137 2.43402,11.28922 -4.43302,15.58709 z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter930)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path660"
          d="m 128.41161,190.40137 -15.06021,9.21869 3.5597,8.63579 3.52478,-8.37881 z"
-         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter926)" />
+         style="opacity:1;vector-effect:none;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path662"
          d="m 128.41161,190.40137 4.78659,3.01726 -2.35257,8.27196 z"
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter922)" />
+         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path664"
          d="m 137.65586,177.74487 -4.64292,44.05067 -6.60033,-4.51786 z"
-         style="opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter918)" />
+         style="opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path666"
          d="m 155.74278,202.07304 1.20258,12.37408 8.44478,2.50942 z"
-         style="opacity:1;vector-effect:none;fill:#282828;fill-opacity:0.99997277;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter914)" />
+         style="opacity:1;vector-effect:none;fill:#282828;fill-opacity:0.99997277;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path668"
          d="m 155.74278,202.07305 -4.68093,14.91638 3.99378,-3.10386 1.88973,0.56155 z"
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter910)" />
+         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path670"
          d="m 163.77474,185.43009 -4.10271,22.76818 5.71806,8.75826 7.79151,2.31529 z"
-         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter906)" />
+         style="opacity:1;vector-effect:none;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path672"
          d="m 137.65586,177.74487 11.55854,40.68035 -9.89288,7.6885 -6.30858,-4.31818 z"
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter902)" />
+         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path674"
          d="m 137.65586,177.74488 16.75099,28.58529 -3.345,10.65926 -1.84745,1.43579 z"
-         style="opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter898)" />
+         style="opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          transform="matrix(1.0720418,0,0,1.0720418,-5.8053249,-17.731355)"
          inkscape:connector-curvature="0"
          id="path676"
          d="m 163.77474,185.43009 -13.67208,13.63421 4.30419,7.26587 1.33593,-4.25713 3.92925,6.12523 z"
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter894)" />
+         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
       <path
          inkscape:connector-curvature="0"
          id="path1246-9"
          d="m 80.58271,59.15441 v 53.78831 l 44.40421,-21.998033 -0.0233,-8.233596 z"
-         style="opacity:1;vector-effect:none;fill:#918243;fill-opacity:1;stroke:none;stroke-width:0.28364438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;vector-effect:none;fill:#918243;fill-opacity:1;stroke:none;stroke-width:0.28364438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
          sodipodi:nodetypes="ccccc" />
     </g>
   </g>

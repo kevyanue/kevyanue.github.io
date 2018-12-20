@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
+   width="174.63205mm"
    height="297mm"
-   viewBox="0 0 297 297"
+   viewBox="0 0 174.63205 297"
    version="1.1"
    id="svg8"
    sodipodi:docname="carp wireframe.svg"
@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.42150236"
      inkscape:cx="510.09839"
-     inkscape:cy="589.97882"
+     inkscape:cy="589.97884"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,13 @@
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0" />
+     inkscape:measure-end="0,0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -87,9 +93,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,5.2282763e-6)">
+     transform="translate(-3.7752079e-7,4.6047719e-6)">
     <g
-       id="g1783">
+       id="g1783"
+       transform="matrix(1.2111017,0,0,1.2111017,-92.472474,-31.344567)">
       <path
          inkscape:export-ydpi="498.52054"
          inkscape:export-xdpi="498.52054"
@@ -2670,7 +2677,7 @@
          inkscape:connector-curvature="0"
          id="path331"
          d="m 216.44444,47.560364 3.82942,5.628007 -6.29955,-2.078693 z"
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.52916668;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>
