@@ -2,11 +2,16 @@
 layout: default
 title: teste
 ---
-{% assign image_files = site.static_files | where: "svg", true %}
-{% for myimage in image_files %}
-  
-{% endfor %}
 
+{% assign svgs = site.static_files | where: "svg", true %}
+{% for svg in svgs %}
+
+    <div class="col-md-3 border border-primary float-left">
+        <img src="{{ svg.path }}" class="w-100" />
+    </div>
+
+{% endfor %}
+a
 
 
         
