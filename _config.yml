@@ -1,0 +1,48 @@
+
+name: Kevyan Uehara
+
+sass:
+  sass_dir: css
+
+
+defaults:
+
+  - scope:
+      path: svg
+    values:
+      svg: true
+
+  - scope:
+      path: svg/landscape
+    values:
+      landscape: true
+
+  - scope:
+      path: svg/animals
+    values:
+      animals: true
+
+  - scope:
+      path: svg/minimalism
+    values:
+      minimalism: true
+  
+  - scope:
+      path: svg/miscellaneous
+    values:
+      miscellaneous: true    
+
+  - scope:
+      path: svg/models
+    values:
+      models: true
+
+  - scope:
+      path: svg/visual-identity
+    values:
+      visual-identity: true 
+  
+  - scope:
+      path: svg/wiframes
+    values:
+      wireframes: true 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="692.635" height="131.619" viewBox="0 0 183.26 34.824">
+   <g transform="translate(-60.888 -166.988)">
+      <flowRoot xml:space="preserve" style="line-height:1.25" transform="translate(-282.585 -62.37)" font-style="normal" font-weight="400" font-size="40" font-family="sans-serif" letter-spacing="0" word-spacing="0" fill="#000" fill-opacity="1" stroke="none">
+         <flowRegion>
+            <path d="M-74.953-232.797h325.269v98.995H-74.953z"/>
+         </flowRegion>
+         <flowPara/>
+      </flowRoot>
+      <g fill="#fff">
+         <path style="line-height:1.25;-inkscape-font-specification:'JD Neos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" d="M103.968 168.064v24.772l2.154-1.077V180.27l9.335.001 2.154-2.154v-7.899l-2.154-2.154zm2.154 2.154h9.335v7.899h-9.335z" font-weight="400" font-family="JD Neos" letter-spacing="0" word-spacing="0"/>
+         <path d="M152.456 178.117l-2.562 1.077-3.873 10.209-5.462-10.21h-2.154l6.722 12.566-3.132 8.258h2.155l3.132-8.258 4.766-12.565z"/>
+         <path style="line-height:1.25;-inkscape-font-specification:'JD Neos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" d="M158.918 178.117l-2.154 2.154h7.898v9.334h-7.898v-9.334l-2.154 2.154v9.334h10.052v7.898h-7.898v-3.59l-2.154 1.077v4.668h12.206v-23.695h-7.898z" font-weight="400" font-family="JD Neos" letter-spacing="0" word-spacing="0"/>
+         <path d="M198.913 178.117v14.72l2.154-1.078v-13.642zM201.054 172.385v1.065h.013v2.513h-2.154v-2.513h.012zM205.375 178.117l-2.154 2.154h8.564l-8.564 11.488h12.206v-2.154h-8.465l8.465-11.488zM221.89 178.117l-2.155 2.154h7.899v3.59h-7.9v-3.59l-2.153 2.154v9.334h12.206v-2.154h-10.052v-3.59h10.052v-7.898z"/>
+         <path style="line-height:1.25;-inkscape-font-specification:'JD Neos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" d="M244.147 166.988l-2.154 1.076v10.053h-5.743l-2.155 2.154h7.898v9.334h-7.898v-9.334l-2.154 2.154v9.334h12.206v-13.642z" font-weight="400" font-family="JD Neos" letter-spacing="0" word-spacing="0"/>
+         <path d="M134.098 191.76v-23.696l2.154-1.076v24.771zM173.278 178.117l-2.154 2.154h7.898v9.334h-7.898v-9.334l-2.154 2.154v9.334h12.206v-13.642zM124.045 178.117l-2.154 2.154h7.899v9.334h-7.899v-9.334l-2.154 2.154v9.334h12.206v-13.642zM187.638 178.117l-2.154 2.154-2.154 2.154v9.334h2.154v-11.488h9.334v12.565l2.155-1.077v-13.642zM69.504 178.117l-2.154 2.154h7.898v9.334H67.35v-9.334l-2.154 2.154v9.334h12.206v-13.642zM60.888 191.76v-23.696l2.154-1.076v24.771zM79.556 178.117h2.154v7.898l2.872 2.872 2.872-2.872v-7.898h2.154v7.898l2.872 2.872 2.872-2.872v-7.898h2.154v8.616l-5.026 5.026-3.949-3.949-3.949 3.95-5.026-5.027z"/>
+      </g>
+   </g>
+</svg>
