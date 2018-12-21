@@ -3,15 +3,26 @@ layout: default
 title: teste
 ---
 
-{% assign svgs = site.static_files | where: "svg", true %}
-{% for svg in svgs %}
 
-    <div class="col-md-3 border border-primary float-left">
-        <img src="{{ svg.path }}" class="w-100" />
+{%- assign svgs = site.static_files | where: "svg", true -%}
+{%- for svg in svgs %}
+    {%- case  ( forloop.index | modulo: 3 ) -%}
+        
+    <div class="col-md-4 p-3">
+        {%- when 0 -%}
+        <img alt="svg.basename" src="{{ svg.path }}" class="w-100"/>
     </div>
+    <div class="col-md-4 p-3">
+        {%- when 1 -%}
+        <img alt="svg.basename" src="{{ svg.path }}" class="w-100"/>
+    </div>
+    <div class="col-md-4 p-3">
+        {%- when 2 -%}
+        <img alt="svg.basename" src="{{ svg.path }}" class="w-100"/>
+    </div>
+    {%- endcase -%}
+{%- endfor -%}
 
-{% endfor %}
-a
 
 
         
