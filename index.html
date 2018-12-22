@@ -3,25 +3,11 @@ layout: default
 title: teste
 ---
 
-
-{%- assign svgs = site.static_files | where: "svg", true -%}
-{%- for svg in svgs %}
-    {%- case  ( forloop.index | modulo: 3 ) -%}
-        
-    <div class="col-md-4 p-3">
-        {%- when 0 -%}
-        <img alt="svg.basename" src="{{ svg.path }}" class="w-100"/>
-    </div>
-    <div class="col-md-4 p-3">
-        {%- when 1 -%}
-        <img alt="svg.basename" src="{{ svg.path }}" class="w-100"/>
-    </div>
-    <div class="col-md-4 p-3">
-        {%- when 2 -%}
-        <img alt="svg.basename" src="{{ svg.path }}" class="w-100"/>
-    </div>
-    {%- endcase -%}
-{%- endfor -%}
+<div class="d-flex justify-content-center align-items-center bg-deep-red" style="height:100vh;">
+    <img class="mx-auto d-block w-75" 
+        src="svg/visual-identity/soviet cherry blossom.svg" 
+        alt="cherry blossom"/>
+</div>
 
 
 
