@@ -1,0 +1,16 @@
+.blink {
+    color: white;
+    animation: blinker 1s step-start infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+.mono {
+font-family: "monospace";
+font-weight: 100;
+}
+  
