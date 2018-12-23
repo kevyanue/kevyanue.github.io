@@ -15,7 +15,19 @@ font-weight: 100;
 }
 
 .sc-size{
-    width: 100vw;
-    max-width: 100vw;
+    top: 0px;
+    left: 0px;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100vh;
     min-height: 100vh;
+}
+
+body {
+    color: $sv-orange;
+    background-color: #131313;
+    font-size: 16px;
+    font-weight: 100;
 }
