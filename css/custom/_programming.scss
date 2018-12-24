@@ -27,7 +27,23 @@ font-weight: 100;
 
 body {
     color: $sv-orange;
-    background-color: #131313;
+    background-color: #1e1e1e;
     font-size: 14px;
     font-weight: 100;
+}
+
+.full-width {
+    width: 100vw;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.github {
+    fill: white;
+}
+
+.github:hover {
+    fill: $sv-orange;
 }
