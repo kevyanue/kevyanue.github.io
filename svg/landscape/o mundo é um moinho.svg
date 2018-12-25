@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3535534"
-     inkscape:cx="898.82219"
-     inkscape:cy="160.18682"
+     inkscape:zoom="32.000001"
+     inkscape:cx="521.04444"
+     inkscape:cy="405.82951"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -125,8 +125,9 @@
       <path
          inkscape:connector-curvature="0"
          id="path1254"
-         d="m 177.915,150.17567 -39.76134,-48.19296 50.24052,31.36157 z"
-         style="opacity:1;vector-effect:none;fill:#8b91b2;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
+         d="m 177.915,150.17567 -39.76135,-48.2198 50.24053,31.38841 z"
+         style="opacity:1;vector-effect:none;fill:#8b91b2;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="cccc" />
       <path
          inkscape:connector-curvature="0"
          id="path1248-4"
