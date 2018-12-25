@@ -46,3 +46,8 @@ defaults:
       path: svg/wiframes
     values:
       wireframes: true 
+  
+  - scope:
+      path: svg/logos
+    values:
+      logos: true 
