@@ -41,8 +41,8 @@ body {
 }
 
 
-.logo:hover path {
-    fill: $sv-pale;
+.logo:hover{
+    transform: scale(1.2);
 }
 
 .lighthouse {
