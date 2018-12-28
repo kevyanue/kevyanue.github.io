@@ -1,4 +1,4 @@
-![low polygonized](https://github.com/lowpolygonized/lowpolygonized.github.io/blob/master/galery/logo/logo%20black.svg)
+![low polygonized](https://github.com/kevyanue/kevyanue.github.io/blob/master/svg/visual-identity/low%20polygonized%20logo%20black.svg)
 ## Welcome to Low polygonized
 
 my name is Kevyan Uehara, i'm a brazilian programmer and artist.
