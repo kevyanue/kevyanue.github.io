@@ -23,11 +23,6 @@ defaults:
       animals: true
 
   - scope:
-      path: svg/minimalism
-    values:
-      minimalism: true
-  
-  - scope:
       path: svg/miscellaneous
     values:
       miscellaneous: true    
