@@ -27,7 +27,7 @@
 }
 
 body {
-    color: $sv-orange;
+    color: white;
     background-color: #1e1e1e;
     font-size: 14px;
     font-weight: 100;
@@ -76,7 +76,7 @@ body {
     border: 3px solid $sv-orange;
 }
 
-.v-align{
+.s-align{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -85,7 +85,24 @@ body {
     transform: translateY(-50%) translateX(-50%);
 }
 
-.teste{
+.v-align{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+
+.kevyan {
+    position: relative;
+}
+
+.kevyan::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
     width: 100vw;
     height: 100vh;
     background-color: #131313 ;
@@ -93,7 +110,18 @@ body {
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
-    z-index: 0;
     filter: grayscale(100%) opacity(.25);
+}
 
+.kevyan-inside {
+    /* This will make it stack on top of the ::before */
+    position: relative;
+}
+
+.hs-100{
+    height: 100vh;
+}
+
+.scale:hover{
+    transform: scale(1.15);
 }
