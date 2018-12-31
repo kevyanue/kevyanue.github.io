@@ -62,11 +62,6 @@ body {
     background-color: black;
 }
 
-.grey{
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
-}
-
 .size {
     width: 15%;
     height: 15%;
@@ -122,6 +117,13 @@ body {
     height: 100vh;
 }
 
-.scale:hover{
-    transform: scale(1.15);
+.divider::before{
+    content: "";
+    border-left: 2px solid white;
+    margin-left: 1rem;
+    padding-left: 1rem;
+}
+
+.divider{
+    position: relative;
 }
