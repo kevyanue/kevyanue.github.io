@@ -1,4 +1,9 @@
 
+body {
+    font-size: 14px;
+    font-weight: 100;
+  }
+
 .blink {
     color: white;
     animation: blinker 1s step-start infinite;
@@ -88,7 +93,6 @@ body {
     transform: translateY(-50%);
 }
 
-
 .kevyan {
     position: relative;
 }
@@ -117,13 +121,27 @@ body {
     height: 100vh;
 }
 
-.divider::before{
-    content: "";
-    border-left: 2px solid white;
-    margin-left: 1rem;
-    padding-left: 1rem;
+.white-link, .white-link:active, .white-link:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.white-link:hover,{
+    text-decoration: none;
+    color: white
+}
+
+.menu-link{
+    font-size: 1.05rem;
+    height: 100%;
+}
+
+.menu-link:hover {
+    background-color: #404040;
 }
 
 .divider{
-    position: relative;
+    z-index: 100000;
+    border-left: 2px solid white;
+    height: 100%;
 }
