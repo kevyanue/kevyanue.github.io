@@ -9,10 +9,23 @@
 		<link rel="stylesheet" href="{{ '/css/main.css' }}">
 
 	</head>
-	<body class="sc-size clearfix">	
-	
-            
+	<body class="clearfix">	
+		<div class="fluid d-inline my-0 align-items-center fixed-top">
+			<nav class="nav bg-black justify-content-center">
+				<a class="menu-link p-3 text-white" href="/index.html">Home</a>
+				<a class="menu-link p-3 text-white" href="/about.html">About me</a>
+				<a class="menu-link p-3 text-white" href="#">Programming projects</a>
+				<a class="menu-link p-3 text-white" href="#">Art galery</a>
+			</nav>
+		</div>
 		{{ content }}
+		
+		<nav class="nav bg-black justify-content-end py-2 px-3 fixed-bottom">
+			<div class="float-right">
+				Kevyan Uehara &copy;2018, All rights reserved
+			</div>
+		</nav>
+		
             
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
