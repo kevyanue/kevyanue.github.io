@@ -5,7 +5,7 @@ my name is Kevyan Uehara, i'm a brazilian programmer and artist.
 
 This is my portifolio for programming/artwork projects.
 
-check it out in [lowpolygonized.github.io](https://kevyanue.github.io/)
+check it out in [kevyanue.github.io](https://kevyanue.github.io/)
 
 enjoy!
 
