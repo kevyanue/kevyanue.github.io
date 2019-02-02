@@ -1,5 +1,105 @@
 ---
 ---
 
-@import 'bootstrap/bootstrap';
+
 @import 'custom/custom';
+@import 'bootstrap/bootstrap';
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Doppio+One);
+
+img, embed, object{
+	max-width: 100%;
+}
+
+
+a img {
+	border: 0px;
+}
+
+
+#posts ul {
+	list-style:none; 
+	margin: auto;
+	padding: 0px;
+}
+
+#posts ul li {
+	width: 250px;
+	float: left;
+
+}
+
+#posts ul li img {
+	width: 95%;
+}
+
+.post-image{
+	width: 250px;
+}
+
+
+@media only screen and (min-width: 1367) {
+
+	#posts ul li {
+		width: 220px;
+	}
+}
+
+@media only screen and (max-width: 1366) {
+
+	#posts ul li {
+		width: 273px;
+	}
+}
+
+/* Tables - Landscape */
+@media only screen and (max-width: 1280) {
+
+	#posts ul li {
+		width: 252px;
+	}
+
+}
+
+/* Tables - Landscape */
+@media 
+only screen and (max-device-width: 1024px),
+only screen and (max-width: 1024px) {
+
+	#posts ul li {
+		width: 265px;
+	}
+
+}
+
+/* Tables - Verticle */
+@media 
+only screen and (max-device-width:768px),
+only screen and (max-width: 768px) {
+
+	#posts ul li {
+		width: 300px;
+	}
+}
+
+/* Smart Phone */
+@media 
+only screen and (max-device-width:600px),
+only screen and (max-width: 600px) {
+
+	#logo, #links {
+		float: none;
+		text-align: center;
+	}
+
+	#links {
+		margin: 0 0 0 0;
+	}
+
+	#posts ul li {
+		width: 95%;
+	}
+
+}
+
