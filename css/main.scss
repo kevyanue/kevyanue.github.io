@@ -25,7 +25,7 @@ a img {
 }
 
 #posts ul li {
-	width: 250px;
+	width: 25%;
 	float: left;
 
 }
@@ -35,21 +35,21 @@ a img {
 }
 
 .post-image{
-	width: 250px;
+	width: 25%;
 }
 
 
 @media only screen and (min-width: 1367) {
 
 	#posts ul li {
-		width: 220px;
+		width: 25%;
 	}
 }
 
 @media only screen and (max-width: 1366) {
 
 	#posts ul li {
-		width: 273px;
+		width: 30%;
 	}
 }
 
@@ -57,7 +57,7 @@ a img {
 @media only screen and (max-width: 1280) {
 
 	#posts ul li {
-		width: 252px;
+		width: 30%;
 	}
 
 }
@@ -68,7 +68,7 @@ only screen and (max-device-width: 1024px),
 only screen and (max-width: 1024px) {
 
 	#posts ul li {
-		width: 265px;
+		width: 25%;
 	}
 
 }
@@ -79,7 +79,7 @@ only screen and (max-device-width:768px),
 only screen and (max-width: 768px) {
 
 	#posts ul li {
-		width: 300px;
+		width: 30%;
 	}
 }
 
