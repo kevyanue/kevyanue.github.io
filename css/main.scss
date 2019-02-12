@@ -8,11 +8,19 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 @import url(http://fonts.googleapis.com/css?family=Doppio+One);
 
-.grid-item { float: left; 
-	cursor: pointer;}
-.grid-item:hover { filter: grayscale(100%) }
+.grid-item {
+	float: left; 
+	cursor: pointer;
+}
+.grid-item:hover { 
+	outline: 2px solid white;
+	z-index: 100;
+}
 
 .grid-sizer{ width: 25%}
 
+.black{
+	filter: invert(100%);
+}
 
 
