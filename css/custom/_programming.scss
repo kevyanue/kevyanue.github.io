@@ -65,12 +65,12 @@ body {
 }
 
 .white-link, .white-link:active, .white-link:visited {
-    text-decoration: none;
+    text-decoration: underline !important;
     color: white;
 }
 
 .white-link:hover{
-    text-decoration: none;
+    text-decoration: underline !important;
     color: #808080
 }
 
