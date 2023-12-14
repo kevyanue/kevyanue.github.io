@@ -1,0 +1,51 @@
+$tag-apresentacao: CadetBlue !default;
+$tag-default: DimGrey;
+
+// pra listagem dos post
+.tag-list{
+    padding-bottom: 4px;
+}
+
+
+// pra listagem dos post
+.tag{
+    display: inline-block;
+    margin: 0 0.1rem 0.2rem;
+    padding: 0.2rem 0.5rem;
+}
+
+// Overide o do "tags" do tema pra tirar as borda.
+.tags{
+    a {
+        border-radius: 0px !important;
+    }
+}
+
+// Tags especificas
+
+.tag{
+    
+    &-apresentacao{
+        background-color: $tag-apresentacao !important;
+        color: white !important;
+    }
+    &-default{
+        background-color: $tag-default !important;
+        color: white !important;
+    }
+}
+
+
+// Somente as cores:
+
+.color{
+    &-default{
+        color: $tag-default !important;
+    }
+
+    &-apresentacao{
+        color: $tag-apresentacao !important;
+    }
+    
+}
+
