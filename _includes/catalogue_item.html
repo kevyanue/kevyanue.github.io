@@ -6,6 +6,7 @@
       <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%d / %m / %Y" }}</time>
       <h1 class="catalogue-title">{{ post.title }}</h1>
       <div class="tag-list">
+        Tags: 
         {% for tag in post.tags%}
           {% if tag == "apresentação" %}
             <div class="tag tag-apresentacao"> {{ tag }} </div>
