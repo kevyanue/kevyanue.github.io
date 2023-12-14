@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
             Blog onde posto coisas sobre Matemática, Dungeons and Dragons, Call of Cthulhu, História do Mato Grosso do Sul.
 baseurl:    "" # the subpath of your site, e.g. /blog
 url:        "https://kevyanue.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+<<<<<<< HEAD
 remote_theme:      chesterhow/tale
 
 permalink:  /:year-:month-:day/:title
@@ -32,3 +33,10 @@ paginate:   5
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
+=======
+remote_theme:      tale
+
+permalink:  /:year-:month-:day/:title
+
+paginate:   5
+>>>>>>> 60a841e (theme para remote_theme)
