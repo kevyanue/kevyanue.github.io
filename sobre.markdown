@@ -27,5 +27,3 @@ Meus interesses não-academicos são:
 * RPG's de mesa: D&d, CoC, entre outros
 * História do Mato Grosso do Sul
 * Origamis!
-
-
