@@ -1,0 +1,12 @@
+<figure class="image" style="text-align: center;">
+  <img src="{{ include.url }}" alt="{{ include.caption }}">
+  <figcaption>
+    {{ include.caption }}
+    {% if include.link and include.link_text  %}
+        <a href="{{ include.link  }}"> {{ include.link_text }}</a>
+    {% endif %}
+
+  </figcaption>
+  
+
+</figure>
