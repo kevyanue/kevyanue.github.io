@@ -11,10 +11,12 @@ permalink: /tags/
   </div>
   <div class="tags-clouds">
     {% for tag in site.tags %}
-      {% if tag[0] == "apresentação" %}
+      {% if tag[0] == "Apresentação" %}
         <a href="#{{ tag[0] }}" class="tag-apresentacao">{{ tag[0] }}</a>
+      {% elsif tag[0] == "Poesia" %}
+        <a href="#{{ tag[0] }}" class="tag-poesia">{{ tag[0] }}</a>
       {% else %}
-      <a href="#{{ tag[0] }}" class="tag-default">{{ tag[0] }}</a>
+        <a href="#{{ tag[0] }}" class="tag-default">{{ tag[0] }}</a>
       {% endif %}
     {% endfor %}
   </div>
@@ -39,8 +41,10 @@ permalink: /tags/
       <line x1="7" y1="7" x2="7.01" y2="7"></line>
     </svg>
     <h2 class="tags-item-label">
-      {% if tag[0] == "apresentação" %}
+      {% if tag[0] == "Apresentação" %}
         <a href="#{{ tag[0] }}" class="color-apresentacao">{{ tag[0] }}</a>
+      {% elsif tag[0] == "Poesia" %}
+      <a href="#{{ tag[0] }}" class="color-poesia">{{ tag[0] }}</a>
       {% else %}
         <a href="#{{ tag[0] }}" class="color-default">{{ tag[0] }}</a>
       {% endif %}
