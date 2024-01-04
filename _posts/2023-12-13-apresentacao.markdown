@@ -2,7 +2,7 @@
 layout: post
 title:  "Apresentação do blog"
 date:   2023-12-13 12:50:15 -0300
-tags:   apresentação
+tags:   Apresentação
 sticky: true
 ---
 

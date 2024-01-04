@@ -8,8 +8,10 @@
       <div class="tag-list">
         Tags: 
         {% for tag in post.tags%}
-          {% if tag == "apresentação" %}
+          {% if tag == "Apresentação" %}
             <div class="tag tag-apresentacao"> {{ tag }} </div>
+          {% elsif tag == "Poesia"%}
+            <div class="tag tag-poesia"> {{ tag }} </div>
           {% else %}
             <div class="tag tag-default"> {{ tag }} </div>
           {% endif %}
