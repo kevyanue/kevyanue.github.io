@@ -15,6 +15,8 @@ permalink: /tags/
         <a href="#{{ tag[0] }}" class="tag-apresentacao">{{ tag[0] }}</a>
       {% elsif tag[0] == "Poesia" %}
         <a href="#{{ tag[0] }}" class="tag-poesia">{{ tag[0] }}</a>
+      {% elsif tag[0] == "MS" %}
+        <a href="#{{ tag[0] }}" class="tag-MS">{{ tag[0] }}</a>
       {% else %}
         <a href="#{{ tag[0] }}" class="tag-default">{{ tag[0] }}</a>
       {% endif %}
@@ -44,7 +46,9 @@ permalink: /tags/
       {% if tag[0] == "Apresentação" %}
         <a href="#{{ tag[0] }}" class="color-apresentacao">{{ tag[0] }}</a>
       {% elsif tag[0] == "Poesia" %}
-      <a href="#{{ tag[0] }}" class="color-poesia">{{ tag[0] }}</a>
+        <a href="#{{ tag[0] }}" class="color-poesia">{{ tag[0] }}</a>
+      {% elsif tag[0] == "Poesia" %}
+        <a href="#{{ tag[0] }}" class="color-MS">{{ tag[0] }}</a>
       {% else %}
         <a href="#{{ tag[0] }}" class="color-default">{{ tag[0] }}</a>
       {% endif %}

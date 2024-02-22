@@ -1,6 +1,7 @@
 $tag-apresentacao: CadetBlue !default;
 $tag-default: DimGrey;
 $tag-poesia: coral;
+$tag-MS: RoyalBlue;
 
 body {
     color: #202020;
@@ -43,6 +44,11 @@ body {
         background-color: $tag-poesia !important;
         color: white !important;
     }
+
+    &-MS{
+        background-color: $tag-MS !important;
+        color: white !important;
+    }
 }
 
 
@@ -58,7 +64,11 @@ body {
     }
 
     &-poesia{
-        color: $tag-poesia;
+        color: $tag-poesia !important;
+    }
+
+    &-MS{
+        color: $tag-MS !important;
     }
     
 }
