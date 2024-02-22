@@ -35,10 +35,6 @@ body {
         background-color: $tag-apresentacao !important;
         color: white !important;
     }
-    &-default{
-        background-color: $tag-default !important;
-        color: white !important;
-    }
 
     &-poesia{
         background-color: $tag-poesia !important;
@@ -47,6 +43,11 @@ body {
 
     &-MS{
         background-color: $tag-MS !important;
+        color: white !important;
+    }
+
+    &-default{
+        background-color: $tag-default !important;
         color: white !important;
     }
 }
