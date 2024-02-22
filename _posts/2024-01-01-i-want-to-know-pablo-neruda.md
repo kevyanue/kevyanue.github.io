@@ -36,7 +36,7 @@ Dito isso, minha tradução é a seguinte:
 > to not walk and to not speak, i want \\
 > to know if in the end we'll reach \\
 > incommunication: at last \\
-> with someone go to see pure air, \\
+> with someone to go see pure air, \\
 > the sea's streaked lights of each day \\
 > or an earthly object \\
 > and to have nothing to exchange \\
