@@ -26,7 +26,7 @@ url:        "https://kevyanue.github.io" # the base hostname & protocol for your
 
 remote_theme:      chesterhow/tale
 
-permalink:  /:year-:month-:day/:title
+permalink:  /:day-:month-:year/:title
 
 paginate:   5
 
