@@ -1,8 +1,11 @@
-$tag-apresentacao: CadetBlue !default;
-$tag-default: DimGrey;
-$tag-poesia: coral;
-$tag-MS: RoyalBlue;
-$tag-artes: Crimson;
+$tag-apresentacao:      CadetBlue !default;
+$tag-default:           DimGrey;
+$tag-poesia:            coral;
+$tag-MS:                RoyalBlue;
+$tag-artes:             Crimson;
+$tag-CoC:               DarkMagenta;
+$tag-RPG:               Gold;
+$tag-Pantanal:          DarkGreen;
 
 body {
     color: #202020;
@@ -56,6 +59,21 @@ body {
         background-color: $tag-default !important;
         color: white !important;
     }
+
+    &-CoC{
+        background-color: $tag-CoC !important;
+        color: white !important;
+    }
+
+    &-Pantanal{
+        background-color: $tag-Pantanal !important;
+        color: white !important;
+    }
+
+    &-RPG{
+        background-color: $tag-RPG !important;
+        color: white !important;
+    } 
 }
 
 
@@ -81,6 +99,18 @@ body {
     &-MS{
         color: $tag-MS !important;
     }
+
+    &-CoC{
+        color: $tag-CoC !important;
+    }
+
+    &-Pantanal{
+        color: $tag-Pantanal !important;
+    }
+
+    &-RPG{
+        color: $tag-RPG !important;
+    } 
     
 }
 
