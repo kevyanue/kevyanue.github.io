@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "O mistério da localização do Forte de Miranda"
-tag:    MS 
+tags:    MS Pantanal
 ---
 
 A ideia de uma construção antiga perdida sob o solo do Pantanal é para mim interessante e mística (daí a ideia de fazer um RPG que se utiliza desse elemento de mistério a ser descoberto). Mistérios enterrados nas terras e águas como se fossem nossas Eldorados. Um tema de narrativa poderoso para se fazer uma história! O que mais estaria enterrado sobre o Pantanal?
