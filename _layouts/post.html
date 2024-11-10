@@ -8,6 +8,12 @@ layout: default
     {% if page.date %}
       <br>
       <span>em&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%d / %m / %Y" }}</time>
+    {% endif %}<br>
+    {% if page.tags.size == 1 %}
+      Tag: {{ page.tags[0] }}
+    {% else %}
+      Tags:
+      {{ page.tags | join: ", " }}
     {% endif %}
   </div>
 
