@@ -30,7 +30,7 @@ Nada ainda, mas em breve terá algo (espero eu)
 - Sons de Carrilhões, de João Pernambuco
 - *Estudio 51 (El cant dels ocells)*, de Emilio Pujol
 
-> Não achei tablatura dessa então to fazendo a minha. Futuramente vou juntar com o *Estudio 45* que é a mesma musica só que com tremloso (é um estudo de tremolos). Descobri a musica pelo canal de youtube da Beatrix Kovács, e a versão com os dois estudos juntos tem no canal MDG classics
+> Não achei tablatura dessa então to fazendo a minha. Futuramente vou juntar com o *Estudio 45* que é a mesma musica só que com tremolos (é um estudo de tremolos). Descobri a musica pelo canal de youtube da Beatrix Kovács, e a versão com os dois estudos juntos tem no canal MDG classics
 
 > Dropei de aprender a valsa n. 2 do shostakovich, to deixando para quando tiver amadurecido um pouco mais
 
