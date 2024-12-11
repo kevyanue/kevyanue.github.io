@@ -28,7 +28,7 @@ Nada ainda, mas em breve terá algo (espero eu)
 
 - *Gnossienne 1*, de Erik Satie
 - Valsa n. 2, de Shostakovich
-- Prelúdio em D menor, de Agustín Barrios Mangoré
+- Prelúdio em C menor, de Agustín Barrios Mangoré
 
 ### Futuro próximo
 
